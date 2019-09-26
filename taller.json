@@ -1,14 +1,14 @@
 {
-  "squadName" : "Super hero squad",
+  "squadName" : "the lightning runners",
   "homeTown" : "Metro City",
-  "formed" : 2016,
-  "secretBase" : "Super tower",
+  "formed" : 2018,
+  "secretBase" : "lightning cage",
   "active" : true,
   "members" : [
     {
-      "name" : "Molecule Man",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
+      "name" : "black ligthning",
+      "age" : 22,
+      "secretIdentity" : "Jeisson Florez",
       "powers" : [
         "Radiation resistance",
         "Turning tiny",
@@ -16,19 +16,9 @@
       ]
     },
     {
-      "name" : "Madame Uppercut",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
-      "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
-      ]
-    },
-    {
-      "name" : "Eternal Flame",
-      "age" : 1000000,
-      "secretIdentity" : "Unknown",
+      "name" : "thunderbolt",
+      "age" : 16,
+      "secretIdentity" : "Camilo Gonzalez",
       "powers" : [
         "Immortality",
         "Heat Immunity",
